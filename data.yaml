@@ -1,0 +1,8 @@
+path: C:/Users/murat/OneDrive/Belgeler/computerVision/yoloPractice/hard_hat_sample
+train: train/images
+val: valid/images
+#test: ../test/images
+
+nc: 3
+names: ['head', 'helmet', 'person']
+
